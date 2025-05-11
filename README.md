@@ -1,0 +1,2 @@
+# SQL-Comads
+comandos sql
